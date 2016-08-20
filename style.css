@@ -1,0 +1,27 @@
+h1{color:cornflowerblue;
+}
+p{height: 50px;
+    background: #ff6600;
+    text-indent: 2em;
+}
+th {height: 100px;
+   width: 100px }
+.er{ border-width: 1px;
+    border-style: solid;
+    border-color: #ddd;}
+.qw{
+    border-radius: 50px;
+    color: blue;
+}
+
+.er{
+    background: #ddd;
+    width: 200px;
+
+}
+#sd{
+    color: chartreuse;
+}
+tr{background: chartreuse}
+th{color: white}
+td{color: aquamarine}
